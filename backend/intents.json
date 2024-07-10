@@ -2,7 +2,7 @@
   "intents": [
     {
       "intent": "buchen",
-      "keywords": ["buchen", "reservieren", "reservierung"],
+      "keywords": ["buchen", "reservieren", "Reservierung"],
       "response": "Welche Unterkunft möchten Sie buchen? Wenn Sie keine passende Unterkunft gefunden haben, können Sie mich um Empfehlungen bitten."
     },
     {
