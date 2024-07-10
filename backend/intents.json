@@ -1,0 +1,24 @@
+{
+  "intents": [
+    {
+      "intent": "buchen",
+      "keywords": ["buchen", "reservieren", "reservierung"],
+      "response": "Welche Unterkunft möchten Sie buchen? Wenn Sie keine passende Unterkunft gefunden haben, können Sie mich um Empfehlungen bitten."
+    },
+    {
+      "intent": "empfehlen",
+      "keywords": ["empfehlen", "unentschlossen", "Unterstützung", "Hilfe", "unentschieden", "empfehle"],
+      "response": "Bitte geben Sie das Land an, für das Sie Unterkunftsempfehlungen wünschen."
+    },
+    {
+      "intent": "abbrechen",
+      "keywords": ["abbrechen", "cancel"],
+      "response": "Ich bin Ihr Buchungsassistent, wie kann ich Ihnen helfen?"
+    }
+  ],
+  "serviceKeywords": [
+    "all inclusive", "parking", "kingsize bed", "king bed", "suite", "double room", 
+    "single room", "studio", "spa", "breakfast"
+]
+
+}

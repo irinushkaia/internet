@@ -1,0 +1,106 @@
+{
+  "hotels": [
+    {
+      "hotel_id": 1,
+      "kind": "hotel",
+      "name": "Seaside Hotel",
+      "city": "Miami",
+      "city_desc": "A beautiful city on the coast line",
+      "country": "USA",
+      "description": "A beautiful seaside hotel in Miami.",
+      "services": ["all inclusive", "parking", "kingsize bed", "king bed", "suite", "double room", "single room", "studio"],
+      "price": 100,
+      "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/9c/7f/74/pool-deck.jpg?w=1200&h=-1&s=1"
+    },
+    {
+      "hotel_id": 2,
+      "kind": "apartment",
+      "name": "Mountain View Apartment",
+      "city": "Denver",
+      "country": "USA",
+      "description": "A cozy apartment with a view of the mountains in Denver.",
+      "unavailable_checkout": ["2024-08-05"],
+      "services": ["spa", "parking", "breakfast"],
+      "price": 120,
+      "photo": "https://www.fiftygrande.com/wp-content/uploads/2022/02/DenverHotel-Hero.jpg"
+    },
+    {
+      "hotel_id": 3,
+      "kind": "hotel",
+      "name": "City Center Hotel",
+      "city": "Paris",
+      "country": "France",
+      "description": "A luxurious hotel in the heart of Paris.",
+      "services": ["all inclusive", "parking", "suite"],
+      "price": 150,
+      "photo": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/295686363.jpg?k=a044ecaaaa624710798193922f19b4560878420e561ee20a7248fb346c03577a&o=&hp=1"
+    },
+    {
+      "hotel_id": 4,
+      "kind": "hotel",
+      "name": "Lakeside Inn",
+      "city": "Zurich",
+      "country": "Switzerland",
+      "description": "A charming inn by the lake in Zurich.",
+      "services": ["breakfast", "parking", "king bed"],
+      "price": 110,
+      "photo": "https://www.b2hotel.ch/%28cms%29/media/resize/size=1024x683/2569915-hotel-room-b2-hotel-zurich.jpg"
+    },
+    {
+      "hotel_id": 5,
+      "kind": "hotel",
+      "name": "Sunset Resort",
+      "city": "Florida",
+      "country": "USA",
+      "description": "A stunning resort with a view of the sunset in Florida.",
+      "services": ["all inclusive", "parking", "kingsize bed", "suite"],
+      "price": 130,
+      "photo": "https://images.mrandmrssmith.com/images/1482x988/3625677-the-freehand-los-angeles-california-usa.jpg"
+    },
+    {
+      "hotel_id": 6,
+      "kind": "apartment",
+      "name": "City View Apartment",
+      "city": "Brooklyn",
+      "country": "USA",
+      "description": "An apartment with a breathtaking city view in Brooklyn.",
+      "unavailable_checkout": ["2024-09-05"],
+      "services": ["spa", "parking", "breakfast"],
+      "price": 140,
+      "photo": "https://static.independent.co.uk/2023/03/20/14/Standard%20High%20Line-1.jpg?quality=75&width=1000&crop=3%3A2%2Csmart&auto=webp"
+    },
+    {
+      "hotel_id": 7,
+      "kind": "hotel",
+      "name": "Royal Palace Hotel",
+      "city": "London",
+      "country": "UK",
+      "description": "A royal hotel experience in the heart of London.",
+      "services": ["all inclusive", "parking", "suite"],
+      "price": 160,
+      "photo": "https://hips.hearstapps.com/hmg-prod/images/london-hotels-with-a-view-646c859604f1c.jpg"
+    },
+    {
+      "hotel_id": 8,
+      "kind": "hotel",
+      "name": "Harbor Inn",
+      "city": "Sydney",
+      "country": "Australia",
+      "description": "A charming inn by the harbor in Sydney.",
+      "services": ["breakfast", "parking", "king bed"],
+      "price": 120,
+      "photo": "https://www.telegraph.co.uk/content/dam/Travel/Destinations/Oceania/Australia/Sydney/pier-one-sydney-harbour-hotel-australia-p.jpg"
+    },
+    {
+      "hotel_id": 9,
+      "kind": "hotel",
+      "name": "Mountain Lodge",
+      "city": "Zermatt",
+      "country": "Switzerland",
+      "description": "A cozy lodge in the mountains of Zermatt.",
+      "services": ["all inclusive", "parking", "kingsize bed", "suite"],
+      "price": 150,
+      "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/97/76/f1/residenz-altiana-mit.jpg?w=1200&h=-1&s=1"
+    }
+  ]
+}
